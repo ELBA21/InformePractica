@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: InformePractica.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibliografia.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--edition ordinal word "ninth Dover printing, tenth GPO printing" may be too high (or improper) for conversion in 002
+
+Done.
+You've used 2 entries,
+            4087 wiz_defined-function locations,
+            837 strings with 7714 characters,
+and the built_in function-call counts, 1416 in all, are:
+= -- 109
+> -- 30
+< -- 11
++ -- 14
+- -- 5
+* -- 86
+:= -- 222
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 3
+chr.to.int$ -- 24
+cite$ -- 3
+duplicate$ -- 97
+empty$ -- 110
+format.name$ -- 7
+if$ -- 311
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 16
+newline$ -- 29
+num.names$ -- 2
+pop$ -- 40
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 4
+skip$ -- 106
+stack$ -- 0
+substring$ -- 45
+swap$ -- 73
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 2
+warning$ -- 1
+while$ -- 6
+width$ -- 3
+write$ -- 40
+(There was 1 warning)
