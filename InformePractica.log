@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.4)  2 NOV 2025 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.4)  3 NOV 2025 00:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1290,7 +1290,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/portada.png, id=72, 614.295pt x 794.7291pt>
+<images/portada.png, id=88, 614.295pt x 794.7291pt>
 File: images/portada.png Graphic file (type png)
 <use images/portada.png>
 Package pdftex.def Info: images/portada.png  used on input line 18.
@@ -1385,11 +1385,11 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
 (Font)              scaled to size 17.28pt on input line 43.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 45.
+(Font)              `T1/Roboto-LF/bold/n' on input line 47.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 45.
+(Font)              scaled to size 14.4pt on input line 47.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 
  []
 
@@ -1406,13 +1406,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64   \item     C
-                  onocer la estructura de la organización y formas de opera...
-[1
+l.65 \end{enumerate}
+                     [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
  []
 
@@ -1425,19 +1424,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
 Cap\'{\i }tulo 2.
 File: images/portada.png Graphic file (type png)
 <use images/portada.png>
-Package pdftex.def Info: images/portada.png  used on input line 153.
+Package pdftex.def Info: images/portada.png  used on input line 138.
 (pdftex.def)             Requested size: 61.43309pt x 79.47755pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1447,14 +1437,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[3
 
 ]
-File: images/portada.png Graphic file (type png)
-<use images/portada.png>
-Package pdftex.def Info: images/portada.png  used on input line 163.
-(pdftex.def)             Requested size: 61.43309pt x 79.47755pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1476,6 +1470,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [6
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
 Cap\'{\i }tulo 4.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1485,7 +1488,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7
+[8
 
 ]
 Cap\'{\i }tulo 5.
@@ -1498,7 +1501,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8
+[9
 
 ]
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
@@ -1514,7 +1517,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9
+[10
 
 ] (./InformePractica.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -1525,23 +1528,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `InformePractica.out' has not changed.
-(rerunfilecheck)             Checksum: 89ECB95DC0F709002A9D41381A60D8E3;2747.
+(rerunfilecheck)             Checksum: 92442DC0EEF4D8763A14FEE81F5AD7D5;3591.
  ) 
 Here is how much of TeX's memory you used:
- 32257 strings out of 474222
- 598340 string characters out of 5748733
+ 32264 strings out of 474222
+ 598455 string characters out of 5748733
  1933975 words of memory out of 5000000
- 53873 multiletter control sequences out of 15000+600000
+ 53880 multiletter control sequences out of 15000+600000
  625323 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,12n,134p,3945b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,134p,3945b,670s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb>
-Output written on InformePractica.pdf (14 pages, 253629 bytes).
+Output written on InformePractica.pdf (15 pages, 258199 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 232 PDF objects out of 1000 (max. 8388607)
+ 203 compressed objects within 3 object streams
  53 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
